@@ -4,9 +4,6 @@
 --
 -- Generated with the Inferno Fire Alarm Reborn Tool 06/03/2026 00:18:48 UTC
 
-system { name = "Sandy Shores Hospital", location = "Alhambra Dr x Zancudo Ave, Sandy Shores" }
-
-
 system { name = "Sandy Shores Hospital", location = "Sandy Shoress", passcode = "1234" }
 
     controlpanel { name = "Front Desk", position = vec3(1759.633, 3630.397, 34.619), rotation = vec3(0, 0, 136.913), virtual = false }
